@@ -1,3 +1,4 @@
 Wecome to learning command lines with git.
 new thing
 anothing thing
+modified 
