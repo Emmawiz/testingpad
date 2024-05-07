@@ -3,4 +3,4 @@ new thing
 anothing thing
 modified 
 let me get it right
-let me get  right
+let me get git right this time
